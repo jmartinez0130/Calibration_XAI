@@ -40,7 +40,6 @@ To run the toolkit locally:
 
 ## Usage
 1. Upload your sensor data CSV files
-   ![Data Upload](./Images/b.png)
    
 2. Select features and target variable
    ![Feature Selection](./Images/d.png)
