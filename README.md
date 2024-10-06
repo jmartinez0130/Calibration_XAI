@@ -18,7 +18,7 @@ This toolkit is a no-code, open-source solution for calibrating low-cost sensors
 - **Model Export**: Save and deploy trained models
 
 ## Getting Started
-Visit our Streamlit App to start using the toolkit immediately. No installation required!
+Visit the [Streamlit App](https://calibrationxai.streamlit.app) to start using the toolkit. No installation required!
 
 ### Local Installation
 To run the toolkit locally:
